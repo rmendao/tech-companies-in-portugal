@@ -123,5 +123,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Altice Labs](http://www.alticelabs.com/pt/) [:rocket:](http://www.alticelabs.com/pt/candidaturas.html) | Telecommunications technologies. | `Aveiro` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://www.celfocus.com/home/who-we-are/join-us) | Vodafone technology development.  | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
+| [Skyline Communications](https://www.skyline.be/) [:rocket:](https://www.skyline.be/jobs/) | Skyline Communications is the global leader in end-to-end multi-vendor network management and OSS solutions for the broadcast, satellite, cable, telco and mobile industry. | `Lisboa` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa`<br>`Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile telecommunications services. | `Aveiro` `Coimbra`<br>`Leiria` `Lisboa`<br>`Porto` |
